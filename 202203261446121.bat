@@ -1,0 +1,3 @@
+ÿþcho off
+python main.py
+pause
